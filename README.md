@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do BrunoGuimarães 😁
-## Começando com os estudos na programação (html - css)
+## Começando com os estudos na programação (html - css - js)
 
  <div>
    <a href="https://github.com/Bruno091py">
